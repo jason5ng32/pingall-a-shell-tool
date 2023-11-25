@@ -29,10 +29,10 @@ chmod +x pingall.sh
 
 ### Step 3: Moving the Script to a System Path
 
-Move the script to a system path (such as /usr/local/bin) to make it globally accessible:
+Link the script to a system path (such as /usr/local/bin) to make it globally accessible:
 
 ```bash
-mv pingall.sh /usr/local/bin/pingall
+ln -s pingall.sh /usr/local/bin/pingall
 ```
 
 ### Step 4: Verification
