@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The `pingall` script is a versatile tool designed to enhance the efficiency and comprehensiveness of pinging hosts. It extends the functionality of traditional `ping` commands by supporting both IPv4 and IPv6 addresses and allows users to ping hosts specified by URLs, including those with HTTP/HTTPS protocols and paths.
+This `pingall` script is a versatile tool designed to enhance the efficiency and comprehensiveness of pinging hosts. It extends the functionality of traditional `ping` commands by supporting both IPv4 and IPv6 addresses and allows users to ping hosts specified by URLs, including those with HTTP/HTTPS protocols and paths.
 
 ![screenshot.png](screenshot.png)
 
