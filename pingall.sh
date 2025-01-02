@@ -5,7 +5,7 @@ show_help() {
   GREEN='\033[0;32m'
   BLUE='\033[0;34m'
   PURPLE='\033[0;35m'
-  NC='\033[0m' # Remove Color
+  NC='\033[0m' # No Color
 
   echo "Usage: pingall [OPTIONS]... [HOST]..."
   echo "Send ICMP ECHO_REQUEST to network hosts using both IPv4 and IPv6."
